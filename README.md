@@ -8,6 +8,6 @@
 
 ## Other Requirements
 
-## 1. Your own circuit to detect if fridge is open/closed
+### 1. Your own circuit to detect if fridge is open/closed
 
-## 2. Speakers, audio jack, etc.
+### 2. Speakers, audio jack, etc.
